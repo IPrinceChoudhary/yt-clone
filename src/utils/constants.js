@@ -74,3 +74,5 @@ export const commentsData = [
     replies: [],
   },
 ];
+
+export const LIVE_CHAT_COUNT = 15
